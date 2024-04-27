@@ -1,1 +1,1 @@
-alx-low_level_programming
+This assignment covers the basics required to begin working with c.
