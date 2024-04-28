@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point for the function
- * return - always returns 0 after function is done executing
+ * return: always returns 0 after function is done executing
  */
 int main(void)
 {
