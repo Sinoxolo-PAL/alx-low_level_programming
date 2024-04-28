@@ -1,4 +1,4 @@
-#includes <stdio.h>
+#include <stdio.h>
 /**
  * main - entry point for the function
  * return - always returns 0 after function is done executing
