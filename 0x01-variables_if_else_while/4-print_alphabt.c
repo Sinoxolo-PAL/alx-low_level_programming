@@ -12,8 +12,11 @@ char alpha = 'a';
 
 while (alpha <= 'z' && alpha != 'q' && alpha != 'e')
 {
+if (alpha != 'e' && alpha != 'q')
+{
 putchar(alpha);
 alpha++;
+}
 }
 putchar('\n');
 return (0);
