@@ -10,9 +10,9 @@
 int main(void)
 {
 int i;
-for (i = 0; i <= 'z'; i++)
+for (i = 0; i <= 'f'; i++)
 {
-putchar((i % 16));
+putchar(i);
 }
 putchar('\n');
 return (0);
