@@ -3,7 +3,7 @@
 
 /**
  * main - prints the alphabets in lowecase
- * Description - returns 0 once all has been printed
+ * description: returns 0 once all has been printed
  * Return: 0 (Success)
  */
 
