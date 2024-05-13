@@ -3,8 +3,10 @@
 
 /**
  * main - prints the alphabets in lowecase
- * Description: A function that prints all lowercase alphabets 
+ *
+ * Description: A function that prints all lowercase alphabets
  * returns 0 once all has been printed
+ * 
  * Return: 0 (Success)
  */
 
