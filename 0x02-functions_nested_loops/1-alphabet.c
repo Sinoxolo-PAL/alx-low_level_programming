@@ -3,10 +3,10 @@
 
 /**
  * main - prints the alphabets in lowecase
- *
+ * Return: 0 (Success)
  * Description: A function that prints all lowercase alphabets
  * returns 0 once all has been printed
- * Return: 0 (Success)
+ *
  */
 
 void print_alphabet(void)
