@@ -1,0 +1,7 @@
+#include <unistd.h>
+
+// Define the _putchar function
+int _putchar(char c) {
+    // Write the character to stdout (file descriptor 1)
+    return write(1, &c, 1);
+}
