@@ -15,8 +15,8 @@ for (i = 0; i < 10; i++)
 {
 for (letter = 'a'; letter <= 'z'; letter++)
 {
-putchar(letter);
+_putchar(letter);
 }
-putchar('\n');
+_putchar('\n');
 }
 }
