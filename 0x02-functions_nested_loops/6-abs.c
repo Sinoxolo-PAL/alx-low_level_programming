@@ -1,4 +1,4 @@
-/** 
+/**
  * _abs - Computes the absolute value of an integer.
  *
  * @n: an integer.
