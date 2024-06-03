@@ -2,13 +2,9 @@
 
 /**
  * jack_bauer - print every minute of a day.
- *
- * @void: no parameter
- *
- * Return: (0) Success
  */
 
-void jack_baver(void)
+void jack_bauer(void)
 {
 int hour, minute;
 
