@@ -8,7 +8,7 @@
  * Return: (0) Success
  */
 
-void jack_bauer(void)
+void jack_baver(void)
 {
 int hour, minute;
 
@@ -23,5 +23,4 @@ _putchar((minute / 10) + '0');
 _putchar((minute % 10) + '0');
 }
 }
-return (0);
 }
