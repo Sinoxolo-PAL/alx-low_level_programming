@@ -14,7 +14,7 @@ int last_digit = n % 10;
 
 if (last_digit < 0)
 {
-last_digit = *= -1;
+last_digit *= -1;
 }
 putchar(last_digit);
 return (last_digit);
