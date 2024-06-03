@@ -7,12 +7,12 @@
 void times_table(void)
 {
 int row, column, cell;
-cell = row * column;
 
 for (row = 0; row <= 9; row++)
 {
 for (column = 0; column <= 9; column++)
 {
+cell = (column * row);
 _putchar(cell);
 _putchar(',');
 }
