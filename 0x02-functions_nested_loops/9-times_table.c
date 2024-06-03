@@ -13,9 +13,9 @@ for (row = 0; row <= 9; row++)
 for (column = 0; column <= 9; column++)
 {
 cell = (column * row);
-_putchar("%d", cell);
-_putchar(',');
+printf("%d", cell);
+printf(',');
 }
-_putchar('\n');
+printf('\n');
 }
 }
