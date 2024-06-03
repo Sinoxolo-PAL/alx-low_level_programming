@@ -10,6 +10,12 @@
 
 int print_last_digit(int n)
 {
-sprintf(n[-1]);
-return (0);
+int last_digit = n % 10;
+
+if (last_digit < 0)
+{
+last_digit = *= -1;
+}
+putchar(last_digit);
+return (last_digit);
 }
