@@ -6,13 +6,11 @@
 
 void times_table(void)
 {
-int row, column, cell;
-cell = row * column;
-if (row = 0; row <= 9; row++)
+for (int row = 0; row <= 9; row++)
 {
-if (column = 0; column <= 9; column++)
+for (int column = 0; column <= 9; column++)
 {
-_putchar(cell);
+_putchar((row * column));
 }
 }
 }
