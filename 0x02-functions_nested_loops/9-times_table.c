@@ -13,7 +13,7 @@ for (row = 0; row <= 9; row++)
 for (column = 0; column <= 9; column++)
 {
 cell = (column * row);
-printf(cell);
+printf("%i"cell);
 printf(',');
 }
 printf('\n');
