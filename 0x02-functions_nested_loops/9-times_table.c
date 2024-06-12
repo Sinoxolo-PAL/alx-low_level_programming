@@ -19,6 +19,10 @@ if (cell < 9)
 {
 printf(",  ");
 }
+else
+{
+printf(", ");
+}
 }
 printf("\n");
 }
