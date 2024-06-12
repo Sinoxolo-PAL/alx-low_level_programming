@@ -17,12 +17,13 @@ cell = (column * row);
 printf("%i", cell);
 if (cell <= 9)
 {
-printf("  ");
 printf(",");
+printf("  ")
 }
 else
 {
-printf(", ");
+printf(",");
+printf(" ");
 }
 }
 printf("\n");
