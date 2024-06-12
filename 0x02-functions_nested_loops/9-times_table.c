@@ -15,7 +15,7 @@ for (column = 0; column <= 9; column++)
 {
 cell = (column * row);
 printf("%i", cell);
-printf(",");
+printf(", ");
 }
 printf("\n");
 }
