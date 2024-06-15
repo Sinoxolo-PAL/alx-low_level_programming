@@ -14,14 +14,15 @@ for (row = 0; row <= 9; row++)
 for (column = 0; column <= 9; column++)
 {
 cell = (column * row);
-printf("%i", cell);
 if (cell <= 9)
 {
+printf("%i", cell);
 printf(",");
 printf("  ");
 }
 else
 {
+printf("%i", cell);
 printf(",");
 printf(" ");
 }
