@@ -18,7 +18,7 @@ if (cell <= 9)
 {
 printf("%i", cell);
 printf(",");
-printf("  ");
+printf("   ");
 }
 else
 {
